@@ -10,7 +10,7 @@ I'm a Frontend Engineer, currently focussing on ReactJS. I'm a constant learner 
 
 ## Find me around the web 🌎
 - CSS arts on <a href="https://codepen.io/NikhilKumaran"> Codepen</a> 🎨
-- <div style='display: flex'>Blog posts on <a href="https://dev.to/nikhilkumaran"><img style='top: 50%; position: relative; transform: translateY(-50%); margin: 0 5px 0 5px' src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nikhil Kumaran's DEV Profile" height="20" width="20"></a></div>
+- <div>Blog posts on <a href="https://dev.to/nikhilkumaran"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nikhil Kumaran's DEV Profile" height="20" width="20" align="top"></a></div>
 - Tech/Random tweets on [twitter](https://twitter.com/iNikhilKumaran) ✍🏽
 - Sharing updates on [linkedIn](https://www.linkedin.com/in/nikhilkumaran/) 💼
 
