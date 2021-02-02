@@ -1,6 +1,6 @@
 ## Hi, I'm Nikhil 👋🏽👨🏽‍💻
 
-I'm a Frontend Engineer, with expertise in Reactjs. I'm a constant learner and I also occasionally share my knowledge by writing blog posts, giving tech talks, and contributing to open-source projects. Apart from code, I'd like to play cards, chess, and badminton.
+I'm a Web developer at [Cloudera](https://www.cloudera.com/about.html), with expertise in Reactjs. I'm a constant learner and I also occasionally share my knowledge by writing blog posts, giving tech talks, and contributing to open-source projects. Apart from code, I'd like to play cards, chess, and badminton.
 
 ![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Kumaran&count_private=true&hide=issues&show_icons=true)
 
